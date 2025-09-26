@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A4D9DB9F-0C69-4C9C-BFA1-AEC590EE09FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArakneSwf.Parsing", "src\ArakneSwf.Parsing\ArakneSwf.Parsing.csproj", "{B483ABBC-55A7-4B78-A468-02893AB4A0B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArakneSwf.Console", "src\ArakneSwf.Console\ArakneSwf.Console.csproj", "{FF11CE7D-0811-427D-A143-69FB71E2EDFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B483ABBC-55A7-4B78-A468-02893AB4A0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B483ABBC-55A7-4B78-A468-02893AB4A0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B483ABBC-55A7-4B78-A468-02893AB4A0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B483ABBC-55A7-4B78-A468-02893AB4A0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF11CE7D-0811-427D-A143-69FB71E2EDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF11CE7D-0811-427D-A143-69FB71E2EDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF11CE7D-0811-427D-A143-69FB71E2EDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF11CE7D-0811-427D-A143-69FB71E2EDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B483ABBC-55A7-4B78-A468-02893AB4A0B7} = {A4D9DB9F-0C69-4C9C-BFA1-AEC590EE09FE}
+		{FF11CE7D-0811-427D-A143-69FB71E2EDFE} = {A4D9DB9F-0C69-4C9C-BFA1-AEC590EE09FE}
+	EndGlobalSection
+EndGlobal
